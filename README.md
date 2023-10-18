@@ -1,6 +1,6 @@
 # Hy ! 👋
 
-I'm a final year IT student who is interested in fullstack development and data analyst.
+is that right way to use this?
 
 ## ⚡ Still focusing in learn this stuff :
 
