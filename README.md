@@ -1,8 +1,8 @@
-# Hello visitor ! 👋
+# Hy ! 👋
 
 I'm a final year IT student who is interested in fullstack development and data analyst.
 
-# ⚡ Still learning hehe :D
+## ⚡ Still focusing in learn this stuff :
 
 ### Programming Language
 
