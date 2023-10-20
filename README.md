@@ -1,6 +1,6 @@
 # Hy ! 👋
 
-is that right way to use this?
+masi blajar banh
 
 ## ⚡ Still focusing in learn this stuff :
 
