@@ -1,6 +1,6 @@
 # Hy ! 👋
 
-masi blajar banh
+permisi puh sepuh
 
 ## ⚡ Still focusing in learn this stuff :
 
