@@ -1,8 +1,8 @@
-# Hy ! 👋
+# Hi👋
 
 permisi puh sepuh
 
-## ⚡ Still focusing in learn this stuff :
+## ⚡ Currently still learn about this stuff :
 
 ### Programming Language
 
