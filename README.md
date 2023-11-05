@@ -2,7 +2,7 @@
 
 permisi puh sepuh
 
-## ⚡ Currently still learn about this stuff :
+## ⚡ Currently learn about this stuff :
 
 ### Programming Language
 
