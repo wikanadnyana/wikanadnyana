@@ -2,7 +2,7 @@
 
 permisi puh sepuh
 
-## ⚡ Currently learn this stuff :
+## ⚡ Still learn this stack : 
 
 ### Programming Language
 
