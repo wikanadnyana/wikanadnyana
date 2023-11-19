@@ -1,6 +1,6 @@
 # Hi👋
 
-permisi puh sepuh
+misi puh sepuh
 
 ## ⚡ Still learn this stack : 
 
