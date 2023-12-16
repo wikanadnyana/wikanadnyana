@@ -1,6 +1,6 @@
 # Hi👋
 
-misi puh sepuh
+mostly working with data
 
 ## ⚡ Still learn this stack : 
 
