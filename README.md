@@ -1,6 +1,6 @@
 # Hi👋
 
-mostly working with data
+mostly working with data.
 
 ## ⚡ Still learn this stack : 
 
