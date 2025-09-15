@@ -1,6 +1,6 @@
 # Hi👋
 
-mostly working with data.
+i build stuff.
 
 ## ⚡ Still learn this stack : 
 
@@ -20,4 +20,14 @@ mostly working with data.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wikanadnyana&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wikanadnyana&layout=compact&langs_count=8&theme=gotham"/>
 </a>
+</p>
+
+--
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wikanad/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/weecan/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="mailto:wikanadnyana44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
